@@ -11,24 +11,20 @@
 
 + [Anonymous Handbook](http://rghost.ru/6cBYLPNJ9)
 + [бизнесач](https://docs.google.com/file/d/0Bwi-2vf0ZQYXd1Fqd0RoZGxtbTQ/edit?pli=1) как пример охлаждения восторженного ньюфага (aхтунг: ссылка на гугл.докс) 
-
-
++ [лента.ру, статья про тор и анонимность](http://lenta.ru/articles/2013/04/26/anonymity/) - очень годные иллюстрации движения траффика через tor и https. Переведу и положу сюда потом. 
 
 ### ок, а как теперь жить? ##
 - про пароли, где хранить
 - годные емайл-сервисы (protonmail.ch/еще?) и другие веб-сервисы
 
-Scramble
-https://scramble.io
-Подключение через TOR - разрешают
-IP в заголовке - отсутствует
-POP3, IMAP - не поддерживают
+Рекомендуемая почта: 
 
-ScryptMail
-https://scryptmail.com
-Подключение через TOR - разрешают
-IP в заголовке - отсутствует
-POP3, IMAP - не поддерживают
+Рекомендуемая почта:  | POP3/IMAP | IP в заголовках  | Подключение через TOR  
+--- | --- | --- | ---
+ProtonMail https://protonmail.ch/ | Нет | ? | ? 
+Scramble https://scramble.io | Нет | Нет | Да 
+ScryptMail https://scryptmail.com | Нет | Нет | Да 
+
 
 - бетховены и виртуальные карты
 - [как защитить браузер](https://gist.github.com/atcuno/3425484ac5cce5298932)
