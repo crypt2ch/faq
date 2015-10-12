@@ -21,9 +21,11 @@
 
 Рекомендуемая почта:  | POP3/IMAP | IP в заголовках  | Подключение через TOR  
 --- | --- | --- | ---
-ProtonMail https://protonmail.ch/ | Нет | ? | ? 
+ProtonMail https://protonmail.ch/ | Нет | ? | Да 
 Scramble https://scramble.io | Нет | Нет | Да 
 ScryptMail https://scryptmail.com | Нет | Нет | Да 
+TutaNota https://tutanota.com | Нет | ? | ? 
+RiseUp https://help.riseup.net/ru | Да | Нет | Да 
 
 
 - бетховены и виртуальные карты
